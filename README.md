@@ -22,7 +22,7 @@ python manage.py migrate
 ```
 python manage.py createsuperuser
 ```
-
+## <a href="https://github.com/orazkarl/thefactory_bot">Telegram bot<a/>
 ## How to use?
 1. Sign up
 2. Login
